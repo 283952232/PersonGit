@@ -1,0 +1,23 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "PersonGit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/283952232/PersonGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/283952232/PersonGit/issues"
+  },
+  "homepage": "https://github.com/283952232/PersonGit#readme",
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
